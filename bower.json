@@ -1,0 +1,10 @@
+{
+  "name": "Fountain.js",
+  "main": "fountain.js",
+  "licence": "MIT",
+  "ignore": [
+    "app",
+    "samples"
+    "readme.md"
+  ]
+}
